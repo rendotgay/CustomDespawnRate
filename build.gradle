@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group = 'gay.ren.plugin'
+version = '1.0'
+sourceCompatibility = JavaVersion.VERSION_21
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://repo.papermc.io/repository/maven-public/' }
+}
+
+dependencies {
+    compileOnly 'io.papermc.paper:paper-api:1.21.1-R0.1-SNAPSHOT'
+}

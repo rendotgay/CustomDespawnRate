@@ -1,0 +1,10 @@
+name: CustomDespawnRate
+version: 1.0
+main: gay.ren.CustomDespawnRate
+api-version: 1.21
+author: trannies
+description: Change despawn rate of any item
+commands:
+  despawnrate:
+    description: CustomDespawnRate admin commands
+    usage: /despawnrate reload
