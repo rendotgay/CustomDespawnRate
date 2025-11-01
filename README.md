@@ -1,4 +1,4 @@
-### CustomDespawnRate
+# CustomDespawnRate
 Set despawn rate for any item
 
 ## Features
